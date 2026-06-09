@@ -13,14 +13,6 @@ Build a system that:
 - Generates KPIs automatically
 - Uses AI to summarize business health
 
-## Features
-
-- Sales Trend Analysis
-- Resource Utilization Tracking
-- Revenue Forecasting
-- AI-Generated Management Summary
-- Risk Alerts
-
 ## Technology Stack
 
 - Python
@@ -29,7 +21,19 @@ Build a system that:
 - Power BI / Streamlit
 - OpenAI / Llama
 
-## Deliverables
+## Selected Datasets
 
-- Interactive Dashboard
-- AI Business Advisor 
+### Superstore Dataset
+Used for sales, profit, customer, category and regional performance analysis.
+
+### Store Complaints Dataset
+Used for complaint analytics, service quality monitoring and risk alerts.
+
+### Planned Features
+- Data Ingestion
+- KPI Generation
+- Sales Trend Analysis
+- Revenue Forecasting
+- Complaint Monitoring
+- AI Business Advisor
+- Risk Alerts
