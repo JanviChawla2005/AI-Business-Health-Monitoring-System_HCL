@@ -1,0 +1,301 @@
+Complaint ID,Customer Name,Complaint Type,Staff Name,Department,Product Details,Date of Complaint,Store Location,Brief Complaint
+1,John Smith,Product,Sarah Johnson,Grocery,Expired milk,6/1/2023,SuperMart,Received a defective product
+2,Emily Davis,Delivery,Mike Anderson,Logistics,Late delivery,6/2/2023,MegaMart,Delivery arrived later than promised
+3,Mark Wilson,Staff,Jessica Roberts,Customer Service,Rude behavior,6/3/2023,HyperMart,Cashier behaved unprofessionally
+4,Lisa Thompson,Product,Robert Baker,Produce,Moldy fruits,6/4/2023,SuperMart,Item stopped working shortly after purchase
+5,Michael Brown,Staff,Samantha Davis,Deli,Slow service,6/5/2023,MegaMart,Poor customer service at the counter
+6,Jennifer Lee,Product,David Harris,Bakery,Stale bread,6/6/2023,HyperMart,Product was damaged upon purchase
+7,Daniel Johnson,Delivery,Sarah Johnson,Logistics,Damaged package,6/7/2023,SuperMart,Received the wrong item in delivery
+8,Olivia White,Staff,Jessica Roberts,Customer Service,Unhelpful assistance,6/8/2023,MegaMart,Staff was not knowledgeable about products
+9,Ethan Martinez,Product,Robert Baker,Grocery,Wrong item received,6/9/2023,HyperMart,Received a defective product
+10,Ava Turner,Staff,Samantha Davis,Deli,Incorrect order,6/10/2023,SuperMart,Employee was discourteous during interaction
+11,Matthew Johnson,Product,David Harris,Bakery,Stale cakes,6/11/2023,MegaMart,Missing parts in the product package
+12,Sophia Adams,Delivery,Mike Anderson,Logistics,Lost package,6/12/2023,HyperMart,Delivery arrived later than promised
+13,Benjamin Roberts,Staff,Emily Davis,Customer Service,Impolite behavior,6/13/2023,SuperMart,Staff was rude during checkout
+14,Chloe Wilson,Product,Robert Baker,Produce,Expired vegetables,6/14/2023,MegaMart,Received a defective product
+15,Oliver Thompson,Staff,Sarah Johnson,Deli,Slow service,6/15/2023,HyperMart,Poor customer service at the counter
+16,Emma Harris,Product,David Harris,Bakery,Stale bread,6/16/2023,SuperMart,Item stopped working shortly after purchase
+17,Liam Turner,Delivery,Mike Anderson,Logistics,Late delivery,6/17/2023,MegaMart,Delayed delivery caused inconvenience
+18,Sophia Roberts,Staff,Jessica Roberts,Customer Service,Unhelpful assistance,6/18/2023,HyperMart,Employee was discourteous during interaction
+19,Olivia Adams,Product,Robert Baker,Grocery,Expired milk,6/19/2023,SuperMart,Product quality did not meet expectations
+20,William Davis,Staff,Samantha Davis,Deli,Incorrect order,6/20/2023,MegaMart,Staff was not knowledgeable about products
+21,Evelyn Thompson,Product,David Harris,Bakery,Stale cakes,6/21/2023,HyperMart,Item stopped working shortly after purchase
+22,James Johnson,Delivery,Mike Anderson,Logistics,Delayed delivery,6/22/2023,SuperMart,Delayed delivery caused inconvenience
+23,Sophia Turner,Staff,Emily Davis,Customer Service,Impolite behavior,6/23/2023,MegaMart,Store associate was inattentive
+24,Ava Wilson,Product,Robert Baker,Produce,Moldy fruits,6/24/2023,HyperMart,Item stopped working shortly after purchase
+25,Oliver Roberts,Delivery,Sarah Johnson,Logistics,Damaged package,6/25/2023,SuperMart,Order was marked delivered but not received
+26,Emma Adams,Staff,Jessica Roberts,Customer Service,Rude behavior,6/26/2023,MegaMart,Employee was discourteous during interaction
+27,Chloe Brown,Product,David Harris,Bakery,Stale bread,6/27/2023,HyperMart,Product description was misleading
+28,Liam Davis,Delivery,Mike Anderson,Logistics,Lost package,6/28/2023,SuperMart,Delivery arrived later than promised
+29,William Thompson,Staff,Samantha Davis,Deli,Slow service,6/29/2023,MegaMart,Staff member ignored my query
+30,Evelyn Johnson,Product,Robert Baker,Grocery,Wrong item received,6/30/2023,HyperMart,Missing parts in the product package
+31,Olivia Adams,Staff,Emily Davis,Customer Service,Unhelpful assistance,7/1/2023,SuperMart,Staff provided incorrect information
+32,James Wilson,Product,Sarah Johnson,Grocery,Expired milk,7/2/2023,MegaMart,Product description was misleading
+33,Sophia Davis,Delivery,Mike Anderson,Logistics,Late delivery,7/3/2023,HyperMart,Package was delivered to the wrong address
+34,Oliver Thompson,Staff,Jessica Roberts,Customer Service,Impolite behavior,7/4/2023,SuperMart,Poor customer service at the counter
+35,Emma Roberts,Product,Robert Baker,Produce,Moldy fruits,7/5/2023,MegaMart,Received expired product
+36,Liam Brown,Staff,Samantha Davis,Deli,Incorrect order,7/6/2023,HyperMart,Employee was unhelpful when asked for assistance
+37,William Turner,Product,David Harris,Bakery,Stale cakes,7/7/2023,SuperMart,Received a defective product
+38,Evelyn Adams,Delivery,Mike Anderson,Logistics,Delayed delivery,7/8/2023,MegaMart,Delivery agent was unprofessional
+39,James Roberts,Staff,Emily Davis,Customer Service,Unhelpful assistance,7/9/2023,HyperMart,Employee was unhelpful when asked for assistance
+40,Olivia Thompson,Product,Robert Baker,Grocery,Expired milk,7/10/2023,SuperMart,Received expired product
+41,Sophia Davis,Staff,Sarah Johnson,Deli,Slow service,7/11/2023,MegaMart,Staff provided incorrect information
+42,Oliver Roberts,Product,David Harris,Bakery,Stale bread,7/12/2023,HyperMart,Product had manufacturing defects
+43,Emma Adams,Delivery,Mike Anderson,Logistics,Lost package,7/13/2023,SuperMart,Product arrived damaged during delivery
+44,Chloe Brown,Staff,Jessica Roberts,Customer Service,Rude behavior,7/14/2023,MegaMart,Staff was rude during checkout
+45,Liam Davis,Product,Robert Baker,Produce,Moldy fruits,7/15/2023,HyperMart,Product size was incorrect
+46,William Thompson,Delivery,Sarah Johnson,Logistics,Damaged package,7/16/2023,SuperMart,Delayed delivery caused inconvenience
+47,Evelyn Johnson,Staff,Samantha Davis,Deli,Slow service,7/17/2023,MegaMart,Employee was unhelpful when asked for assistance
+48,James Wilson,Product,David Harris,Bakery,Stale cakes,7/18/2023,HyperMart,Missing parts in the product package
+49,Sophia Roberts,Delivery,Mike Anderson,Logistics,Late delivery,7/19/2023,SuperMart,Received the wrong item in delivery
+50,Oliver Thompson,Staff,Emily Davis,Customer Service,Impolite behavior,7/20/2023,MegaMart,Staff was not knowledgeable about products
+51,Emma Harris,Product,Robert Baker,Produce,Expired vegetables,7/21/2023,HyperMart,Product description was misleading
+52,Liam Turner,Staff,Sarah Johnson,Deli,Incorrect order,7/22/2023,SuperMart,Employee was discourteous during interaction
+53,William Davis,Product,David Harris,Bakery,Stale bread,7/23/2023,MegaMart,Received expired product
+54,Evelyn Thompson,Delivery,Mike Anderson,Logistics,Lost package,7/24/2023,HyperMart,Received fewer items than ordered
+55,James Johnson,Staff,Jessica Roberts,Customer Service,Unhelpful assistance,7/25/2023,SuperMart,Poor customer service at the counter
+56,Sophia Turner,Product,Robert Baker,Grocery,Wrong item received,7/26/2023,MegaMart,Received a defective product
+57,Oliver Roberts,Staff,Samantha Davis,Deli,Slow service,7/27/2023,HyperMart,Staff was rude during checkout
+58,Emma Adams,Product,David Harris,Bakery,Stale cakes,7/28/2023,SuperMart,Item stopped working shortly after purchase
+59,Chloe Brown,Delivery,Mike Anderson,Logistics,Delayed delivery,7/29/2023,MegaMart,Product arrived damaged during delivery
+60,Liam Davis,Staff,Emily Davis,Customer Service,Impolite behavior,7/30/2023,HyperMart,Employee was unhelpful when asked for assistance
+61,William Thompson,Product,Sarah Johnson,Grocery,Expired milk,7/31/2023,SuperMart,Item stopped working shortly after purchase
+62,Evelyn Johnson,Delivery,Mike Anderson,Logistics,Late delivery,8/1/2023,MegaMart,Received the wrong item in delivery
+63,James Wilson,Staff,Jessica Roberts,Customer Service,Rude behavior,8/2/2023,HyperMart,Store associate was inattentive
+64,Sophia Davis,Product,Robert Baker,Produce,Moldy fruits,8/3/2023,SuperMart,Product description was misleading
+65,Oliver Thompson,Staff,Samantha Davis,Deli,Slow service,8/4/2023,MegaMart,Long wait due to slow staff response
+66,Emma Roberts,Product,David Harris,Bakery,Stale bread,8/5/2023,HyperMart,Received expired product
+67,Liam Brown,Delivery,Mike Anderson,Logistics,Lost package,8/6/2023,SuperMart,Package was delivered to the wrong address
+68,William Turner,Staff,Emily Davis,Customer Service,Unhelpful assistance,8/7/2023,MegaMart,Staff provided incorrect information
+69,Evelyn Adams,Product,Robert Baker,Grocery,Expired milk,8/8/2023,HyperMart,Received expired product
+70,James Roberts,Staff,Sarah Johnson,Deli,Incorrect order,8/9/2023,SuperMart,Poor customer service at the counter
+71,Olivia Thompson,Product,David Harris,Bakery,Stale cakes,8/10/2023,MegaMart,Product description was misleading
+72,Sophia Davis,Delivery,Mike Anderson,Logistics,Delayed delivery,8/11/2023,HyperMart,Received the wrong item in delivery
+73,Oliver Roberts,Staff,Emily Davis,Customer Service,Impolite behavior,8/12/2023,SuperMart,Employee was discourteous during interaction
+74,Emma Adams,Product,Robert Baker,Produce,Moldy fruits,8/13/2023,MegaMart,Product was damaged upon purchase
+75,Chloe Brown,Staff,Samantha Davis,Deli,Slow service,8/14/2023,HyperMart,Staff was not knowledgeable about products
+76,Liam Davis,Product,Sarah Johnson,Grocery,Expired milk,8/15/2023,SuperMart,Item stopped working shortly after purchase
+77,William Thompson,Delivery,Mike Anderson,Logistics,Late delivery,8/16/2023,MegaMart,Package was delivered to the wrong address
+78,Evelyn Johnson,Staff,Jessica Roberts,Customer Service,Rude behavior,8/17/2023,HyperMart,Long wait due to slow staff response
+79,James Wilson,Product,Robert Baker,Produce,Moldy fruits,8/18/2023,SuperMart,Missing parts in the product package
+80,Sophia Davis,Staff,Samantha Davis,Deli,Slow service,8/19/2023,MegaMart,Cashier behaved unprofessionally
+81,Oliver Thompson,Product,David Harris,Bakery,Stale bread,8/20/2023,HyperMart,Item was not as advertised
+82,Emma Roberts,Delivery,Mike Anderson,Logistics,Lost package,8/21/2023,SuperMart,Delivery was incomplete
+83,Liam Brown,Staff,Emily Davis,Customer Service,Impolite behavior,8/22/2023,MegaMart,Staff provided incorrect information
+84,William Turner,Product,Robert Baker,Produce,Moldy fruits,8/23/2023,HyperMart,Product quality did not meet expectations
+85,Evelyn Adams,Delivery,Sarah Johnson,Logistics,Damaged package,8/24/2023,SuperMart,Delivery was incomplete
+86,James Roberts,Staff,Jessica Roberts,Customer Service,Rude behavior,8/25/2023,MegaMart,Staff was rude during checkout
+87,Olivia Thompson,Product,David Harris,Bakery,Stale cakes,8/26/2023,HyperMart,Received expired product
+88,Sophia Davis,Staff,Mike Anderson,Logistics,Late delivery,8/27/2023,SuperMart,Store associate was inattentive
+89,Oliver Roberts,Product,Emily Davis,Customer Service,Unhelpful assistance,8/28/2023,MegaMart,Product description was misleading
+90,Emma Adams,Delivery,Sarah Johnson,Grocery,Expired milk,8/29/2023,HyperMart,Received the wrong item in delivery
+91,Chloe Brown,Staff,Robert Baker,Produce,Moldy fruits,8/30/2023,SuperMart,Poor customer service at the counter
+92,Liam Davis,Product,Samantha Davis,Deli,Slow service,8/31/2023,MegaMart,Product had manufacturing defects
+93,William Thompson,Staff,David Harris,Bakery,Stale bread,9/1/2023,HyperMart,Staff provided incorrect information
+94,Evelyn Johnson,Delivery,Jessica Roberts,Customer Service,Impolite behavior,9/2/2023,SuperMart,Delivery was incomplete
+95,James Wilson,Staff,Mike Anderson,Logistics,Lost package,9/3/2023,MegaMart,Long wait due to slow staff response
+96,Sophia Davis,Product,Emily Davis,Customer Service,Unhelpful assistance,9/4/2023,HyperMart,Missing parts in the product package
+97,Oliver Thompson,Staff,Sarah Johnson,Grocery,Expired milk,9/5/2023,SuperMart,Long wait due to slow staff response
+98,Emma Adams,Delivery,Robert Baker,Produce,Moldy fruits,9/6/2023,MegaMart,Package was delivered to the wrong address
+99,Chloe Brown,Staff,Samantha Davis,Deli,Slow service,9/7/2023,HyperMart,Cashier behaved unprofessionally
+100,Liam Davis,Product,David Harris,Bakery,Stale bread,9/8/2023,SuperMart,Product was damaged upon purchase
+101,William Thompson,Delivery,Mike Anderson,Logistics,Lost package,9/9/2023,MegaMart,Delivery was incomplete
+102,Evelyn Johnson,Staff,Emily Davis,Customer Service,Impolite behavior,9/10/2023,HyperMart,Staff was not knowledgeable about products
+103,James Wilson,Product,Sarah Johnson,Grocery,Expired milk,9/11/2023,SuperMart,Item was not as advertised
+104,Sophia Davis,Staff,Robert Baker,Produce,Moldy fruits,9/12/2023,MegaMart,Cashier behaved unprofessionally
+105,Oliver Thompson,Product,Samantha Davis,Deli,Slow service,9/13/2023,HyperMart,Product had manufacturing defects
+106,Emma Adams,Delivery,David Harris,Bakery,Stale bread,9/14/2023,SuperMart,Delivery agent was unprofessional
+107,Chloe Brown,Staff,Mike Anderson,Logistics,Lost package,9/15/2023,MegaMart,Employee was discourteous during interaction
+108,Liam Davis,Product,Emily Davis,Customer Service,Impolite behavior,9/16/2023,HyperMart,Missing parts in the product package
+109,William Thompson,Staff,Sarah Johnson,Grocery,Expired milk,9/17/2023,SuperMart,Staff provided incorrect information
+110,Evelyn Johnson,Delivery,Robert Baker,Produce,Moldy fruits,9/18/2023,MegaMart,Delivery was incomplete
+111,James Wilson,Staff,Samantha Davis,Deli,Slow service,9/19/2023,HyperMart,Staff member ignored my query
+112,Sophia Davis,Product,David Harris,Bakery,Stale bread,9/20/2023,SuperMart,Item was not as advertised
+113,Oliver Thompson,Delivery,Mike Anderson,Logistics,Lost package,9/21/2023,MegaMart,Order was marked delivered but not received
+114,Emma Adams,Staff,Emily Davis,Customer Service,Impolite behavior,9/22/2023,HyperMart,Employee was unhelpful when asked for assistance
+115,Chloe Brown,Product,Sarah Johnson,Grocery,Expired milk,9/23/2023,SuperMart,Product quality did not meet expectations
+116,Liam Davis,Staff,Robert Baker,Produce,Moldy fruits,9/24/2023,MegaMart,Employee was unhelpful when asked for assistance
+117,William Thompson,Product,Samantha Davis,Deli,Slow service,9/25/2023,HyperMart,Product was damaged upon purchase
+118,Evelyn Johnson,Delivery,David Harris,Bakery,Stale bread,9/26/2023,SuperMart,Package was delivered to the wrong address
+119,James Wilson,Staff,Mike Anderson,Logistics,Lost package,9/27/2023,MegaMart,Store associate was inattentive
+120,Sophia Davis,Product,Emily Davis,Customer Service,Impolite behavior,9/28/2023,HyperMart,Product had manufacturing defects
+121,Oliver Thompson,Staff,Sarah Johnson,Grocery,Expired milk,9/29/2023,SuperMart,Employee was unhelpful when asked for assistance
+122,Emma Adams,Delivery,Robert Baker,Produce,Moldy fruits,9/30/2023,MegaMart,Delivery agent was unprofessional
+123,Chloe Brown,Staff,Samantha Davis,Deli,Slow service,10/1/2023,HyperMart,Store associate was inattentive
+124,Liam Davis,Product,David Harris,Bakery,Stale bread,10/2/2023,SuperMart,Product had manufacturing defects
+125,William Thompson,Delivery,Mike Anderson,Logistics,Lost package,10/3/2023,MegaMart,Order was marked delivered but not received
+126,Evelyn Johnson,Staff,Emily Davis,Customer Service,Impolite behavior,10/4/2023,HyperMart,Staff was not knowledgeable about products
+127,James Wilson,Product,Sarah Johnson,Grocery,Expired milk,10/5/2023,SuperMart,Product description was misleading
+128,Sophia Davis,Staff,Robert Baker,Produce,Moldy fruits,10/6/2023,MegaMart,Staff was not knowledgeable about products
+129,Oliver Thompson,Product,Samantha Davis,Deli,Slow service,10/7/2023,HyperMart,Product quality did not meet expectations
+130,Emma Adams,Delivery,David Harris,Bakery,Stale bread,10/8/2023,SuperMart,Received the wrong item in delivery
+131,Chloe Brown,Staff,Mike Anderson,Logistics,Lost package,10/9/2023,MegaMart,Staff was not knowledgeable about products
+132,Liam Davis,Product,Emily Davis,Customer Service,Impolite behavior,10/10/2023,HyperMart,Product description was misleading
+133,William Thompson,Staff,Sarah Johnson,Grocery,Expired milk,10/11/2023,SuperMart,Staff provided incorrect information
+134,Evelyn Johnson,Delivery,Robert Baker,Produce,Moldy fruits,10/12/2023,MegaMart,Received the wrong item in delivery
+135,James Wilson,Staff,Samantha Davis,Deli,Slow service,10/13/2023,HyperMart,Cashier behaved unprofessionally
+136,Sophia Davis,Product,David Harris,Bakery,Stale bread,10/14/2023,SuperMart,Missing parts in the product package
+137,Oliver Thompson,Delivery,Mike Anderson,Logistics,Lost package,10/15/2023,MegaMart,Package was delivered to the wrong address
+138,Emma Adams,Staff,Emily Davis,Customer Service,Impolite behavior,10/16/2023,HyperMart,Long wait due to slow staff response
+139,Chloe Brown,Product,Sarah Johnson,Grocery,Expired milk,10/17/2023,SuperMart,Product quality did not meet expectations
+140,Liam Davis,Staff,Robert Baker,Produce,Moldy fruits,10/18/2023,MegaMart,Cashier behaved unprofessionally
+141,William Thompson,Product,Samantha Davis,Deli,Slow service,10/19/2023,HyperMart,Item was not as advertised
+142,Evelyn Johnson,Delivery,David Harris,Bakery,Stale bread,10/20/2023,SuperMart,Package was delivered to the wrong address
+143,James Wilson,Staff,Mike Anderson,Logistics,Lost package,10/21/2023,MegaMart,Staff was not knowledgeable about products
+144,Sophia Davis,Product,Emily Davis,Customer Service,Impolite behavior,10/22/2023,HyperMart,Received a defective product
+145,Oliver Thompson,Staff,Sarah Johnson,Grocery,Expired milk,10/23/2023,SuperMart,Cashier behaved unprofessionally
+146,Emma Adams,Delivery,Robert Baker,Produce,Moldy fruits,10/24/2023,MegaMart,Delayed delivery caused inconvenience
+147,Chloe Brown,Staff,Samantha Davis,Deli,Slow service,10/25/2023,HyperMart,Employee was discourteous during interaction
+148,Liam Davis,Product,David Harris,Bakery,Stale bread,10/26/2023,SuperMart,Item stopped working shortly after purchase
+149,William Thompson,Delivery,Mike Anderson,Logistics,Lost package,10/27/2023,MegaMart,Package was delivered to the wrong address
+150,Evelyn Johnson,Staff,Emily Davis,Customer Service,Impolite behavior,10/28/2023,HyperMart,Staff provided incorrect information
+151,James Wilson,Product,Sarah Johnson,Grocery,Expired milk,10/29/2023,SuperMart,Product was damaged upon purchase
+152,Sophia Davis,Staff,Robert Baker,Produce,Moldy fruits,10/30/2023,MegaMart,Staff was not knowledgeable about products
+153,Oliver Thompson,Product,Samantha Davis,Deli,Slow service,10/31/2023,HyperMart,Item was not as advertised
+154,Emma Adams,Delivery,David Harris,Bakery,Stale bread,11/1/2023,SuperMart,Delivery arrived later than promised
+155,Chloe Brown,Staff,Mike Anderson,Logistics,Lost package,11/2/2023,MegaMart,Employee was discourteous during interaction
+156,Liam Davis,Product,Emily Davis,Customer Service,Impolite behavior,11/3/2023,HyperMart,Received expired product
+157,William Thompson,Staff,Sarah Johnson,Grocery,Expired milk,11/4/2023,SuperMart,Long wait due to slow staff response
+158,Evelyn Johnson,Delivery,Robert Baker,Produce,Moldy fruits,11/5/2023,MegaMart,Delivery arrived later than promised
+159,James Wilson,Staff,Samantha Davis,Deli,Slow service,11/6/2023,HyperMart,Employee was unhelpful when asked for assistance
+160,Sophia Davis,Product,David Harris,Bakery,Stale bread,11/7/2023,SuperMart,Received expired product
+161,Oliver Thompson,Delivery,Mike Anderson,Logistics,Lost package,11/8/2023,MegaMart,Product arrived damaged during delivery
+162,Emma Adams,Staff,Emily Davis,Customer Service,Impolite behavior,11/9/2023,HyperMart,Poor customer service at the counter
+163,Chloe Brown,Product,Sarah Johnson,Grocery,Expired milk,11/10/2023,SuperMart,Product quality did not meet expectations
+164,Liam Davis,Staff,Robert Baker,Produce,Moldy fruits,11/11/2023,MegaMart,Poor customer service at the counter
+165,William Thompson,Product,Samantha Davis,Deli,Slow service,11/12/2023,HyperMart,Product had manufacturing defects
+166,Evelyn Johnson,Delivery,David Harris,Bakery,Stale bread,11/13/2023,SuperMart,Received the wrong item in delivery
+167,James Wilson,Staff,Mike Anderson,Logistics,Lost package,11/14/2023,MegaMart,Employee was unhelpful when asked for assistance
+168,Sophia Davis,Product,Emily Davis,Customer Service,Impolite behavior,11/15/2023,HyperMart,Product size was incorrect
+169,Oliver Thompson,Staff,Sarah Johnson,Grocery,Expired milk,11/16/2023,SuperMart,Employee was unhelpful when asked for assistance
+170,Emma Adams,Delivery,Robert Baker,Produce,Moldy fruits,11/17/2023,MegaMart,Delayed delivery caused inconvenience
+171,Chloe Brown,Staff,Samantha Davis,Deli,Slow service,11/18/2023,HyperMart,Staff member ignored my query
+172,Liam Davis,Product,David Harris,Bakery,Stale bread,11/19/2023,SuperMart,Product was damaged upon purchase
+173,William Thompson,Delivery,Mike Anderson,Logistics,Lost package,11/20/2023,MegaMart,Order was marked delivered but not received
+174,Evelyn Johnson,Staff,Emily Davis,Customer Service,Impolite behavior,11/21/2023,HyperMart,Staff was not knowledgeable about products
+175,James Wilson,Product,Sarah Johnson,Grocery,Expired milk,11/22/2023,SuperMart,Product was damaged upon purchase
+176,Sophia Davis,Staff,Robert Baker,Produce,Moldy fruits,11/23/2023,MegaMart,Cashier behaved unprofessionally
+177,Oliver Thompson,Product,Samantha Davis,Deli,Slow service,11/24/2023,HyperMart,Item was not as advertised
+178,Emma Adams,Delivery,David Harris,Bakery,Stale bread,11/25/2023,SuperMart,Received fewer items than ordered
+179,Chloe Brown,Staff,Mike Anderson,Logistics,Lost package,11/26/2023,MegaMart,Store associate was inattentive
+180,Liam Davis,Product,Emily Davis,Customer Service,Impolite behavior,11/27/2023,HyperMart,Item stopped working shortly after purchase
+181,William Thompson,Staff,Sarah Johnson,Grocery,Expired milk,11/28/2023,SuperMart,Staff was not knowledgeable about products
+182,Evelyn Johnson,Delivery,Robert Baker,Produce,Moldy fruits,11/29/2023,MegaMart,Delivery was incomplete
+183,James Wilson,Staff,Samantha Davis,Deli,Slow service,11/30/2023,HyperMart,Cashier behaved unprofessionally
+184,Sophia Davis,Product,David Harris,Bakery,Stale bread,12/1/2023,SuperMart,Missing parts in the product package
+185,Oliver Thompson,Delivery,Mike Anderson,Logistics,Lost package,12/2/2023,MegaMart,No delivery updates were provided
+186,Emma Adams,Staff,Emily Davis,Customer Service,Impolite behavior,12/3/2023,HyperMart,Long wait due to slow staff response
+187,Chloe Brown,Product,Sarah Johnson,Grocery,Expired milk,12/4/2023,SuperMart,Item was not as advertised
+188,Liam Davis,Staff,Robert Baker,Produce,Moldy fruits,12/5/2023,MegaMart,Long wait due to slow staff response
+189,William Thompson,Product,Samantha Davis,Deli,Slow service,12/6/2023,HyperMart,Received a defective product
+190,Evelyn Johnson,Delivery,David Harris,Bakery,Stale bread,12/7/2023,SuperMart,Delivery was incomplete
+191,James Wilson,Staff,Mike Anderson,Logistics,Lost package,12/8/2023,MegaMart,Poor customer service at the counter
+192,Sophia Davis,Product,Emily Davis,Customer Service,Impolite behavior,12/9/2023,HyperMart,Received a defective product
+193,Oliver Thompson,Staff,Sarah Johnson,Grocery,Expired milk,12/10/2023,SuperMart,Staff provided incorrect information
+194,Emma Adams,Delivery,Robert Baker,Produce,Moldy fruits,12/11/2023,MegaMart,Delivery arrived later than promised
+195,Chloe Brown,Staff,Samantha Davis,Deli,Slow service,12/12/2023,HyperMart,Employee was discourteous during interaction
+196,Liam Davis,Product,David Harris,Bakery,Stale bread,12/13/2023,SuperMart,Item was not as advertised
+197,William Thompson,Delivery,Mike Anderson,Logistics,Lost package,12/14/2023,MegaMart,Delivery was incomplete
+198,Evelyn Johnson,Staff,Emily Davis,Customer Service,Impolite behavior,12/15/2023,HyperMart,Employee was discourteous during interaction
+199,James Wilson,Product,Sarah Johnson,Grocery,Expired milk,12/16/2023,SuperMart,Item stopped working shortly after purchase
+200,Sophia Davis,Staff,Robert Baker,Produce,Moldy fruits,12/17/2023,MegaMart,Staff was rude during checkout
+201,Oliver Thompson,Product,Samantha Davis,Deli,Slow service,12/18/2023,HyperMart,Received a defective product
+202,Emma Adams,Delivery,David Harris,Bakery,Stale bread,12/19/2023,SuperMart,Delivery arrived later than promised
+203,Chloe Brown,Staff,Mike Anderson,Logistics,Lost package,12/20/2023,MegaMart,Poor customer service at the counter
+204,Liam Davis,Product,Emily Davis,Customer Service,Impolite behavior,12/21/2023,HyperMart,Received a defective product
+205,William Thompson,Staff,Sarah Johnson,Grocery,Expired milk,12/22/2023,SuperMart,Staff was rude during checkout
+206,Evelyn Johnson,Delivery,Robert Baker,Produce,Moldy fruits,12/23/2023,MegaMart,No delivery updates were provided
+207,James Wilson,Staff,Samantha Davis,Deli,Slow service,12/24/2023,HyperMart,Employee was unhelpful when asked for assistance
+208,Sophia Davis,Product,David Harris,Bakery,Stale bread,12/25/2023,SuperMart,Item was not as advertised
+209,Oliver Thompson,Delivery,Mike Anderson,Logistics,Lost package,12/26/2023,MegaMart,Delivery was incomplete
+210,Emma Adams,Staff,Emily Davis,Customer Service,Impolite behavior,12/27/2023,HyperMart,Cashier behaved unprofessionally
+211,Chloe Brown,Product,Sarah Johnson,Grocery,Expired milk,12/28/2023,SuperMart,Product size was incorrect
+212,Liam Davis,Staff,Robert Baker,Produce,Moldy fruits,12/29/2023,MegaMart,Poor customer service at the counter
+213,William Thompson,Product,Samantha Davis,Deli,Slow service,12/30/2023,HyperMart,Item was not as advertised
+214,Evelyn Johnson,Delivery,David Harris,Bakery,Stale bread,12/31/2023,SuperMart,Package was delivered to the wrong address
+215,James Wilson,Staff,Mike Anderson,Logistics,Lost package,1/1/2024,MegaMart,Employee was discourteous during interaction
+216,Sophia Davis,Product,Emily Davis,Customer Service,Impolite behavior,1/2/2024,HyperMart,Product had manufacturing defects
+217,Oliver Thompson,Staff,Sarah Johnson,Grocery,Expired milk,1/3/2024,SuperMart,Long wait due to slow staff response
+218,Emma Adams,Delivery,Robert Baker,Produce,Moldy fruits,1/4/2024,MegaMart,Delivery was incomplete
+219,Chloe Brown,Staff,Samantha Davis,Deli,Slow service,1/5/2024,HyperMart,Long wait due to slow staff response
+220,Liam Davis,Product,David Harris,Bakery,Stale bread,1/6/2024,SuperMart,Missing parts in the product package
+221,William Thompson,Delivery,Mike Anderson,Logistics,Lost package,1/7/2024,MegaMart,Delivery was incomplete
+222,Evelyn Johnson,Staff,Emily Davis,Customer Service,Impolite behavior,1/8/2024,HyperMart,Employee was unhelpful when asked for assistance
+223,James Wilson,Product,Sarah Johnson,Grocery,Expired milk,1/9/2024,SuperMart,Received a defective product
+224,Sophia Davis,Staff,Robert Baker,Produce,Moldy fruits,1/10/2024,MegaMart,Store associate was inattentive
+225,Oliver Thompson,Product,Samantha Davis,Deli,Slow service,1/11/2024,HyperMart,Received expired product
+226,Emma Adams,Delivery,David Harris,Bakery,Stale bread,1/12/2024,SuperMart,Delivery agent was unprofessional
+227,Chloe Brown,Staff,Mike Anderson,Logistics,Lost package,1/13/2024,MegaMart,Store associate was inattentive
+228,Liam Davis,Product,Emily Davis,Customer Service,Impolite behavior,1/14/2024,HyperMart,Product size was incorrect
+229,William Thompson,Staff,Sarah Johnson,Grocery,Expired milk,1/15/2024,SuperMart,Staff was rude during checkout
+230,Evelyn Johnson,Delivery,Robert Baker,Produce,Moldy fruits,1/16/2024,MegaMart,Received the wrong item in delivery
+231,James Wilson,Staff,Samantha Davis,Deli,Slow service,1/17/2024,HyperMart,Staff was rude during checkout
+232,Sophia Davis,Product,David Harris,Bakery,Stale bread,1/18/2024,SuperMart,Missing parts in the product package
+233,Oliver Thompson,Delivery,Mike Anderson,Logistics,Lost package,1/19/2024,MegaMart,No delivery updates were provided
+234,Emma Adams,Staff,Emily Davis,Customer Service,Impolite behavior,1/20/2024,HyperMart,Employee was unhelpful when asked for assistance
+235,Chloe Brown,Product,Sarah Johnson,Grocery,Expired milk,1/21/2024,SuperMart,Item stopped working shortly after purchase
+236,Liam Davis,Staff,Robert Baker,Produce,Moldy fruits,1/22/2024,MegaMart,Poor customer service at the counter
+237,William Thompson,Product,Samantha Davis,Deli,Slow service,1/23/2024,HyperMart,Item stopped working shortly after purchase
+238,Evelyn Johnson,Delivery,David Harris,Bakery,Stale bread,1/24/2024,SuperMart,Delayed delivery caused inconvenience
+239,James Wilson,Staff,Mike Anderson,Logistics,Lost package,1/25/2024,MegaMart,Long wait due to slow staff response
+240,Sophia Davis,Product,Emily Davis,Customer Service,Impolite behavior,1/26/2024,HyperMart,Product was damaged upon purchase
+241,Oliver Thompson,Staff,Sarah Johnson,Grocery,Expired milk,1/27/2024,SuperMart,Store associate was inattentive
+242,Emma Adams,Delivery,Robert Baker,Produce,Moldy fruits,1/28/2024,MegaMart,Package was delivered to the wrong address
+243,Chloe Brown,Staff,Samantha Davis,Deli,Slow service,1/29/2024,HyperMart,Cashier behaved unprofessionally
+244,Liam Davis,Product,David Harris,Bakery,Stale bread,1/30/2024,SuperMart,Product size was incorrect
+245,William Thompson,Delivery,Mike Anderson,Logistics,Lost package,1/31/2024,MegaMart,Delivery was incomplete
+246,Evelyn Johnson,Staff,Emily Davis,Customer Service,Impolite behavior,2/1/2024,HyperMart,Employee was unhelpful when asked for assistance
+247,James Wilson,Product,Sarah Johnson,Grocery,Expired milk,2/2/2024,SuperMart,Product size was incorrect
+248,Sophia Davis,Staff,Robert Baker,Produce,Moldy fruits,2/3/2024,MegaMart,Staff was not knowledgeable about products
+249,Oliver Thompson,Product,Samantha Davis,Deli,Slow service,2/4/2024,HyperMart,Received a defective product
+250,Emma Adams,Delivery,David Harris,Bakery,Stale bread,2/5/2024,SuperMart,Delivery arrived later than promised
+251,Chloe Brown,Staff,Mike Anderson,Logistics,Lost package,2/6/2024,MegaMart,Staff was not knowledgeable about products
+252,Liam Davis,Product,Emily Davis,Customer Service,Impolite behavior,2/7/2024,HyperMart,Product quality did not meet expectations
+253,William Thompson,Staff,Sarah Johnson,Grocery,Expired milk,2/8/2024,SuperMart,Employee was unhelpful when asked for assistance
+254,Evelyn Johnson,Delivery,Robert Baker,Produce,Moldy fruits,2/9/2024,MegaMart,Delivery was incomplete
+255,James Wilson,Staff,Samantha Davis,Deli,Slow service,2/10/2024,HyperMart,Staff member ignored my query
+256,Sophia Davis,Product,David Harris,Bakery,Stale bread,2/11/2024,SuperMart,Missing parts in the product package
+257,Oliver Thompson,Delivery,Mike Anderson,Logistics,Lost package,2/12/2024,MegaMart,Order was marked delivered but not received
+258,Emma Adams,Staff,Emily Davis,Customer Service,Impolite behavior,2/13/2024,HyperMart,Long wait due to slow staff response
+259,Chloe Brown,Product,Sarah Johnson,Grocery,Expired milk,2/14/2024,SuperMart,Item stopped working shortly after purchase
+260,Liam Davis,Staff,Robert Baker,Produce,Moldy fruits,2/15/2024,MegaMart,Store associate was inattentive
+261,William Thompson,Product,Samantha Davis,Deli,Slow service,2/16/2024,HyperMart,Product quality did not meet expectations
+262,Evelyn Johnson,Delivery,David Harris,Bakery,Stale bread,2/17/2024,SuperMart,Package was delivered to the wrong address
+263,James Wilson,Staff,Mike Anderson,Logistics,Lost package,2/18/2024,MegaMart,Store associate was inattentive
+264,Sophia Davis,Product,Emily Davis,Customer Service,Impolite behavior,2/19/2024,HyperMart,Product quality did not meet expectations
+265,Oliver Thompson,Staff,Sarah Johnson,Grocery,Expired milk,2/20/2024,SuperMart,Store associate was inattentive
+266,Emma Adams,Delivery,Robert Baker,Produce,Moldy fruits,2/21/2024,MegaMart,Product arrived damaged during delivery
+267,Chloe Brown,Staff,Samantha Davis,Deli,Slow service,2/22/2024,HyperMart,Long wait due to slow staff response
+268,Liam Davis,Product,David Harris,Bakery,Stale bread,2/23/2024,SuperMart,Product description was misleading
+269,William Thompson,Delivery,Mike Anderson,Logistics,Lost package,2/24/2024,MegaMart,Delivery agent was unprofessional
+270,Evelyn Johnson,Staff,Emily Davis,Customer Service,Impolite behavior,2/25/2024,HyperMart,Staff was not knowledgeable about products
+271,James Wilson,Product,Sarah Johnson,Grocery,Expired milk,2/26/2024,SuperMart,Product size was incorrect
+272,Sophia Davis,Staff,Robert Baker,Produce,Moldy fruits,2/27/2024,MegaMart,Staff member ignored my query
+273,Oliver Thompson,Product,Samantha Davis,Deli,Slow service,2/28/2024,HyperMart,Item stopped working shortly after purchase
+274,Emma Adams,Delivery,David Harris,Bakery,Stale bread,2/29/2024,SuperMart,Product arrived damaged during delivery
+275,Chloe Brown,Staff,Mike Anderson,Logistics,Lost package,3/1/2024,MegaMart,Poor customer service at the counter
+276,Liam Davis,Product,Emily Davis,Customer Service,Impolite behavior,3/2/2024,HyperMart,Product quality did not meet expectations
+277,William Thompson,Staff,Sarah Johnson,Grocery,Expired milk,3/3/2024,SuperMart,Employee was discourteous during interaction
+278,Evelyn Johnson,Delivery,Robert Baker,Produce,Moldy fruits,3/4/2024,MegaMart,Delayed delivery caused inconvenience
+279,James Wilson,Staff,Samantha Davis,Deli,Slow service,3/5/2024,HyperMart,Staff was rude during checkout
+280,Sophia Davis,Product,David Harris,Bakery,Stale bread,3/6/2024,SuperMart,Received expired product
+281,Oliver Thompson,Delivery,Mike Anderson,Logistics,Lost package,3/7/2024,MegaMart,Delivery arrived later than promised
+282,Emma Adams,Staff,Emily Davis,Customer Service,Impolite behavior,3/8/2024,HyperMart,Staff was rude during checkout
+283,Chloe Brown,Product,Sarah Johnson,Grocery,Expired milk,3/9/2024,SuperMart,Product had manufacturing defects
+284,Liam Davis,Staff,Robert Baker,Produce,Moldy fruits,3/10/2024,MegaMart,Long wait due to slow staff response
+285,William Thompson,Product,Samantha Davis,Deli,Slow service,3/11/2024,HyperMart,Item was not as advertised
+286,Evelyn Johnson,Delivery,David Harris,Bakery,Stale bread,3/12/2024,SuperMart,Delayed delivery caused inconvenience
+287,James Wilson,Staff,Mike Anderson,Logistics,Lost package,3/13/2024,MegaMart,Staff member ignored my query
+288,Sophia Davis,Product,Emily Davis,Customer Service,Impolite behavior,3/14/2024,HyperMart,Product quality did not meet expectations
+289,Oliver Thompson,Staff,Sarah Johnson,Grocery,Expired milk,3/15/2024,SuperMart,Staff was not knowledgeable about products
+290,Emma Adams,Delivery,Robert Baker,Produce,Moldy fruits,3/16/2024,MegaMart,Received the wrong item in delivery
+291,Chloe Brown,Staff,Samantha Davis,Deli,Slow service,3/17/2024,HyperMart,Staff member ignored my query
+292,Liam Davis,Product,David Harris,Bakery,Stale bread,3/18/2024,SuperMart,Received a defective product
+293,William Thompson,Delivery,Mike Anderson,Logistics,Lost package,3/19/2024,MegaMart,Received fewer items than ordered
+294,Evelyn Johnson,Staff,Emily Davis,Customer Service,Impolite behavior,3/20/2024,HyperMart,Employee was unhelpful when asked for assistance
+295,James Wilson,Product,Sarah Johnson,Grocery,Expired milk,3/21/2024,SuperMart,Item stopped working shortly after purchase
+296,Sophia Davis,Staff,Robert Baker,Produce,Moldy fruits,3/22/2024,MegaMart,Store associate was inattentive
+297,Oliver Thompson,Product,Samantha Davis,Deli,Slow service,3/23/2024,HyperMart,Received a defective product
+298,Emma Adams,Delivery,David Harris,Bakery,Stale bread,3/24/2024,SuperMart,Received fewer items than ordered
+299,Chloe Brown,Staff,Mike Anderson,Logistics,Lost package,3/25/2024,MegaMart,Poor customer service at the counter
+300,Liam Davis,Product,Emily Davis,Customer Service,Impolite behavior,3/26/2024,HyperMart,Product had manufacturing defects
