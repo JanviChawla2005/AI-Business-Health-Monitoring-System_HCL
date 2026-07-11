@@ -1,6 +1,7 @@
 import pandas as pd
 
 superstore = pd.read_csv("datasets/Superstore.csv", encoding="latin1")
+
 complaints = pd.read_csv("datasets/StoreComplaints_Updated.csv")
 
 print("SUPERSTORE")
