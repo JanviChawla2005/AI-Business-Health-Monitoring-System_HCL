@@ -13,38 +13,31 @@ The system combines automated data processing, KPI generation, SQL-based data st
 
 ## System Workflow
 
-Business & Complaint Data
-          │
-          ▼
-Data Ingestion & Preprocessing
-          │
-          ▼
-KPI Generation & Business Analysis
-          │
-          ├─────────────────┐
-          ▼                 ▼
-   SQL Data Warehouse   Complaint Analysis
-          │                 │
-          │                 ▼
-          │          AI Sentiment Analysis
-          │                 │
-          │          ┌──────┼──────┐
-          │          ▼      ▼      ▼
-          │     Sentiment Priority Escalation
-          │                 │
-          └────────┬────────┘
-                   ▼
-          Risk Alert Generation
-                   │
-                   ▼
-          AI Business Advisor
-                   │
-                   ▼
-          AI-Generated Insights
-                   │
-                   ▼
-          Interactive Power BI
-                Dashboard
+```mermaid
+flowchart TD
+    A[Business & Complaint Data]
+    B[Data Ingestion & Preprocessing]
+    C[KPI Generation & Business Analysis]
+    D[SQL Data Warehouse]
+    E[Complaint Analysis]
+    F[AI Sentiment Analysis]
+    G[Priority & Escalation]
+    H[Risk Alerts]
+    I[AI Business Advisor]
+    J[Interactive Power BI Dashboard]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    D --> H
+    C --> I
+    G --> I
+    H --> I
+    I --> J
+```
 
 
 ## Key Features
