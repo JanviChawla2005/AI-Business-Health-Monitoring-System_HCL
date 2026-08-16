@@ -1,80 +1,117 @@
+
 # AI-Powered Business Health Monitoring System
+
+An AI-powered business intelligence system designed to monitor business performance, analyze customer complaints, identify operational risks, and generate actionable business insights.
 
 ## Problem Statement
 
-Organizations often struggle to monitor business performance across multiple dimensions such as sales, profitability, customer complaints, operational risks, and logistics performance. Extracting meaningful insights from large volumes of business data is time-consuming and often requires manual analysis.
-
+Businesses often struggle to monitor sales, profitability, customer complaints, and operational risks across large datasets. Manual analysis is time-consuming and makes it difficult to identify important business issues quickly.
 
 ## Proposed Solution
 
-Develop an AI-powered business intelligence platform capable of:
+The system combines automated data processing, KPI generation, SQL-based data storage, AI-powered complaint analysis, business intelligence, and interactive visualization to provide a centralized view of overall business health.
 
-- Ingesting business data from CSV and Excel files
-- Cleaning and preprocessing raw business data
-- Storing processed data in a centralized SQL warehouse
-- Automatically generating business KPIs
-- Monitoring sales performance, profitability, customer complaints, logistics, and operational risks
-- Visualizing business performance through interactive dashboards
-- Forecasting future business trends
-- Using AI to summarize business health and generate recommendations
+## System Workflow
 
-## Technology Stack
+Business & Complaint Data
+          │
+          ▼
+Data Ingestion & Preprocessing
+          │
+          ▼
+KPI Generation & Business Analysis
+          │
+          ├─────────────────┐
+          ▼                 ▼
+   SQL Data Warehouse   Complaint Analysis
+          │                 │
+          │                 ▼
+          │          AI Sentiment Analysis
+          │                 │
+          │          ┌──────┼──────┐
+          │          ▼      ▼      ▼
+          │     Sentiment Priority Escalation
+          │                 │
+          └────────┬────────┘
+                   ▼
+          Risk Alert Generation
+                   │
+                   ▼
+          AI Business Advisor
+                   │
+                   ▼
+          AI-Generated Insights
+                   │
+                   ▼
+          Interactive Power BI
+                Dashboard
 
-- Python
-- Pandas
-- SQL
-- Matplotlib / Plotly
-- Power BI / Streamlit
-- OpenAI / Llama
 
-## Selected Datasets
+## Key Features
+
+* Automated data ingestion and preprocessing
+* Business KPI generation
+* Revenue, profit, customer, and product analysis
+* Regional and category performance analysis
+* Sales trend analysis
+* Customer complaint monitoring
+* AI-based sentiment analysis
+* Complaint categorization and prioritization
+* Escalation queue generation
+* Business risk alerts
+* Centralized SQL data storage
+* AI Business Advisor
+* AI Business Agent
+* Interactive Power BI dashboard
+
+## Datasets
 
 ### Superstore Dataset
 
 Used for:
 
-- Revenue Analysis
-- Profit Analysis
-- Customer Analytics
-- Product Performance Monitoring
-- Regional Performance Analysis
-- Sales Trend Analysis
-- Revenue Forecasting
-- Logistics Monitoring
-- Risk Alert Generation
+* Revenue and profit analysis
+* Customer analytics
+* Product performance
+* Regional performance
+* Sales trend analysis
+* Risk analysis
 
 ### Store Complaints Dataset
+
 Used for:
 
-- Complaint Monitoring
-- Service Quality Analysis
-- Complaint Categorization
-- Sentiment Analysis
-- Complaint Prioritization
-- Escalation Queue Generation
+* Complaint monitoring
+* Sentiment analysis
+* Complaint categorization
+* Priority assignment
+* Escalation analysis
+* Service quality analysis
 
-## Planned Features
-- Data Ingestion
-- KPI Generation
-- Sales Trend Analysis
-- Revenue Forecasting
-- Complaint Monitoring
-- Risk Alerts
-- Logistics Monitoring
-- Interactive Dashboards
-- AI Business Advisor
-- Sentiment-Based Complaint Prioritization
-- Escalation Queue Generation
-- Centralized SQL Data Warehouse
+## Technology Stack
 
-## Expected Outcomes
+* Python
+* Pandas
+* SQL / SQLite
+* Power BI
+* Matplotlib / Plotly
+* Groq API
+* Llama (via Ollama)
 
-The system aims to provide:
+## Key Outcomes
 
-- Automated business monitoring
-- Faster decision making
-- Early risk detection
-- Improved operational visibility
-- AI-generated business insights
-- Intelligent complaint prioritization and escalation
-- Scalable centralized business data storage
+* Automated business performance monitoring
+* Faster identification of business risks
+* AI-powered customer complaint analysis
+* Intelligent complaint prioritization and escalation
+* Improved operational visibility
+* Centralized business data management
+* AI-generated business insights and recommendations
+* Interactive visualization of overall business health
+
+## Project Status
+
+**Completed**
+
+Developed by **Janvi Chawla**
+Manipal University Jaipur
